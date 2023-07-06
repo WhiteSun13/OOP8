@@ -1,0 +1,3480 @@
+fileFormatVersion: 2
+guid: ce1c56ab695306145a9eafe78786e881
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1349048760582893223
+    second: AdultSimba_0
+  - first:
+      213: -900923010120882507
+    second: AdultSimba_1
+  - first:
+      213: 8573711925173630915
+    second: AdultSimba_2
+  - first:
+      213: 96407479874896779
+    second: AdultSimba_3
+  - first:
+      213: -2682673880934724081
+    second: AdultSimba_4
+  - first:
+      213: 2679329205813760663
+    second: AdultSimba_5
+  - first:
+      213: -7993743877945780036
+    second: AdultSimba_6
+  - first:
+      213: -2148759375840759327
+    second: AdultSimba_7
+  - first:
+      213: -3796144053745924659
+    second: AdultSimba_8
+  - first:
+      213: 7302489878265148360
+    second: AdultSimba_9
+  - first:
+      213: -4654646179842165172
+    second: AdultSimba_10
+  - first:
+      213: 1141146475139477672
+    second: AdultSimba_11
+  - first:
+      213: 7263007380849754201
+    second: AdultSimba_12
+  - first:
+      213: -7173336708102954748
+    second: AdultSimba_13
+  - first:
+      213: -4784705160921277346
+    second: AdultSimba_14
+  - first:
+      213: 120855829043992954
+    second: AdultSimba_15
+  - first:
+      213: -6940106049858340454
+    second: AdultSimba_16
+  - first:
+      213: -6177445390641368960
+    second: AdultSimba_17
+  - first:
+      213: -8499550778408774119
+    second: AdultSimba_18
+  - first:
+      213: 2289929069257215005
+    second: AdultSimba_19
+  - first:
+      213: 8865832369499552440
+    second: AdultSimba_20
+  - first:
+      213: 1874750987135993828
+    second: AdultSimba_21
+  - first:
+      213: 5629874151759608238
+    second: AdultSimba_22
+  - first:
+      213: 113099786252562983
+    second: AdultSimba_23
+  - first:
+      213: -7387035104164632449
+    second: AdultSimba_24
+  - first:
+      213: 5358838964494073828
+    second: AdultSimba_25
+  - first:
+      213: -3576017827568396147
+    second: AdultSimba_26
+  - first:
+      213: -1217987741132676346
+    second: AdultSimba_27
+  - first:
+      213: 676278733082869909
+    second: AdultSimba_28
+  - first:
+      213: 3719333704796466350
+    second: AdultSimba_29
+  - first:
+      213: -454929239780940265
+    second: AdultSimba_30
+  - first:
+      213: -587159836945515463
+    second: AdultSimba_31
+  - first:
+      213: 4156134906681453434
+    second: AdultSimba_32
+  - first:
+      213: -1740278190184478295
+    second: AdultSimba_33
+  - first:
+      213: -5298789473648033768
+    second: AdultSimba_34
+  - first:
+      213: -238926807049701650
+    second: AdultSimba_35
+  - first:
+      213: 6824486296391380250
+    second: AdultSimba_36
+  - first:
+      213: 763408429474283204
+    second: AdultSimba_37
+  - first:
+      213: -3428595115864821955
+    second: AdultSimba_38
+  - first:
+      213: -2911971110300041255
+    second: AdultSimba_39
+  - first:
+      213: 7339229191833764788
+    second: AdultSimba_40
+  - first:
+      213: -6697660785239761920
+    second: AdultSimba_41
+  - first:
+      213: -7273256897758425259
+    second: AdultSimba_42
+  - first:
+      213: 1936145304845358663
+    second: AdultSimba_43
+  - first:
+      213: 7719113829697811391
+    second: AdultSimba_44
+  - first:
+      213: 6841633042986274816
+    second: AdultSimba_45
+  - first:
+      213: -2292628069287119930
+    second: AdultSimba_46
+  - first:
+      213: -9072723117408683359
+    second: AdultSimba_47
+  - first:
+      213: 5534026576328335838
+    second: AdultSimba_48
+  - first:
+      213: -8935254220827416815
+    second: AdultSimba_49
+  - first:
+      213: 5988201066077334585
+    second: AdultSimba_50
+  - first:
+      213: -5560690019157132748
+    second: AdultSimba_51
+  - first:
+      213: -1984627284836138970
+    second: AdultSimba_52
+  - first:
+      213: 5225750448132789436
+    second: AdultSimba_53
+  - first:
+      213: -2987238504099922754
+    second: AdultSimba_54
+  - first:
+      213: 5134523840821979482
+    second: AdultSimba_55
+  - first:
+      213: -2731509869058481342
+    second: AdultSimba_56
+  - first:
+      213: -6213590622012199929
+    second: AdultSimba_57
+  - first:
+      213: -6280985221134789084
+    second: AdultSimba_58
+  - first:
+      213: 8363455208620479556
+    second: AdultSimba_59
+  - first:
+      213: -5229681647797334611
+    second: AdultSimba_60
+  - first:
+      213: -3286367590448268728
+    second: AdultSimba_61
+  - first:
+      213: 4099644907140559786
+    second: AdultSimba_62
+  - first:
+      213: 8631842199925461602
+    second: AdultSimba_63
+  - first:
+      213: -5293731961265790777
+    second: AdultSimba_64
+  - first:
+      213: -7719522427102158884
+    second: AdultSimba_65
+  - first:
+      213: 1911732430951244036
+    second: AdultSimba_66
+  - first:
+      213: 2628285462089475071
+    second: AdultSimba_67
+  - first:
+      213: 7588163892661044884
+    second: AdultSimba_68
+  - first:
+      213: -5244202431794079983
+    second: AdultSimba_69
+  - first:
+      213: -7566117279403602333
+    second: AdultSimba_70
+  - first:
+      213: -2743100200746325082
+    second: AdultSimba_71
+  - first:
+      213: -8385184510409428084
+    second: AdultSimba_72
+  - first:
+      213: -5242402223793680538
+    second: AdultSimba_73
+  - first:
+      213: 4104417632753143683
+    second: AdultSimba_75
+  - first:
+      213: 4176947086217918700
+    second: AdultSimba_76
+  - first:
+      213: -6332276923433877092
+    second: AdultSimba_77
+  - first:
+      213: -7437873428048926563
+    second: AdultSimba_78
+  - first:
+      213: 3761693056311775590
+    second: AdultSimba_80
+  - first:
+      213: 1354140169713764647
+    second: AdultSimba_81
+  - first:
+      213: -674843430553954612
+    second: AdultSimba_82
+  - first:
+      213: 5384377431104693746
+    second: AdultSimba_83
+  - first:
+      213: -4681076002613589490
+    second: AdultSimba_84
+  - first:
+      213: 9174550684271496446
+    second: AdultSimba_85
+  - first:
+      213: 1102197717186702979
+    second: AdultSimba_86
+  - first:
+      213: -6267744992987807145
+    second: AdultSimba_87
+  - first:
+      213: -2041219959428292576
+    second: AdultSimba_88
+  - first:
+      213: 1599017493016621128
+    second: AdultSimba_89
+  - first:
+      213: -7198750366870766597
+    second: AdultSimba_90
+  - first:
+      213: 2833564496791156322
+    second: AdultSimba_91
+  - first:
+      213: -795302461520301453
+    second: AdultSimba_92
+  - first:
+      213: -2414399177784914663
+    second: AdultSimba_93
+  - first:
+      213: -3764165575675062177
+    second: AdultSimba_94
+  - first:
+      213: 5651324396184055315
+    second: AdultSimba_95
+  - first:
+      213: 6567451900626326888
+    second: AdultSimba_96
+  - first:
+      213: -1179433740822499512
+    second: AdultSimba_97
+  - first:
+      213: 2945447773876713556
+    second: AdultSimba_98
+  - first:
+      213: -3572532227190327515
+    second: AdultSimba_99
+  - first:
+      213: -4674971620709916028
+    second: AdultSimba_100
+  - first:
+      213: -8938092231393392064
+    second: AdultSimba_101
+  - first:
+      213: 7713125850254375709
+    second: AdultSimba_102
+  - first:
+      213: 8319804695127366644
+    second: AdultSimba_103
+  - first:
+      213: -6877607400927019089
+    second: AdultSimba_104
+  - first:
+      213: -389099280046680139
+    second: AdultSimba_105
+  - first:
+      213: -381389350357887542
+    second: AdultSimba_106
+  - first:
+      213: -1162826324049170230
+    second: AdultSimba_107
+  - first:
+      213: -4729133624754090556
+    second: AdultSimba_108
+  - first:
+      213: -8055054733508510619
+    second: AdultSimba_109
+  - first:
+      213: 1644513466556434387
+    second: AdultSimba_110
+  - first:
+      213: 6292594896351262281
+    second: AdultSimba_111
+  - first:
+      213: 7051186009130058428
+    second: AdultSimba_112
+  - first:
+      213: -3437743658796453784
+    second: AdultSimba_113
+  - first:
+      213: -7450174842286438809
+    second: AdultSimba_114
+  - first:
+      213: -2788077212543314243
+    second: AdultSimba_115
+  - first:
+      213: -4635673245136213478
+    second: AdultSimba_116
+  - first:
+      213: -4791622219189887107
+    second: AdultSimba_117
+  - first:
+      213: -8387008309521351065
+    second: AdultSimba_118
+  - first:
+      213: 355955702955634316
+    second: AdultSimba_119
+  - first:
+      213: -3282313370304875922
+    second: AdultSimba_120
+  - first:
+      213: 1165482910260983055
+    second: AdultSimba_121
+  - first:
+      213: -4834425805067978449
+    second: AdultSimba_122
+  - first:
+      213: -5889552358698834093
+    second: AdultSimba_123
+  - first:
+      213: -2896718355340768342
+    second: AdultSimba_124
+  - first:
+      213: 7022264517044006132
+    second: AdultSimba_127
+  - first:
+      213: -3435872058075101649
+    second: AdultSimba_128
+  - first:
+      213: 1932120235792918409
+    second: AdultSimba_129
+  - first:
+      213: 4254831709657510971
+    second: AdultSimba_130
+  - first:
+      213: -7967262460974817438
+    second: AdultSimba_131
+  - first:
+      213: 2632633951766787357
+    second: AdultSimba_132
+  - first:
+      213: 4978197130924033770
+    second: AdultSimba_133
+  - first:
+      213: -8815465051200035492
+    second: AdultSimba_134
+  - first:
+      213: -5591545065482494778
+    second: AdultSimba_135
+  - first:
+      213: -4210556567551625878
+    second: AdultSimba_136
+  - first:
+      213: 6663299046534405292
+    second: AdultSimba_137
+  - first:
+      213: -6800327019381744187
+    second: AdultSimba_138
+  - first:
+      213: 2537796190483605208
+    second: AdultSimba_139
+  - first:
+      213: -6533676551903438656
+    second: AdultSimba_140
+  - first:
+      213: 2466334784173480262
+    second: AdultSimba_141
+  - first:
+      213: 3481978605831397772
+    second: AdultSimba_142
+  - first:
+      213: -669953380147342890
+    second: AdultSimba_143
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: AdultSimba_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 880
+        width: 35
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95196c0cc47374de0800000000000000
+      internalID: -1349048760582893223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdultSimba_1
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 880
+        width: 32
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b6e4cbab474f73f0800000000000000
+      internalID: -900923010120882507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdultSimba_2
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 880
+        width: 38
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c7318a0291fbf670800000000000000
+      internalID: 8573711925173630915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdultSimba_3
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 880
+        width: 37
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8342a79712865100800000000000000
+      internalID: 96407479874896779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdultSimba_4
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 880
+        width: 37
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0ecaa6915a35cad0800000000000000
+      internalID: -2682673880934724081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdultSimba_5
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 880
+        width: 36
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 792dbdc87b3ee2520800000000000000
+      internalID: 2679329205813760663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdultSimba_6
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 880
+        width: 37
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb89691bb44801190800000000000000
+      internalID: -7993743877945780036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdultSimba_7
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 880
+        width: 37
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e1b8377bb21e22e0800000000000000
+      internalID: -2148759375840759327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdultSimba_8
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 880
+        width: 39
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc543409813615bc0800000000000000
+      internalID: -3796144053745924659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdultSimba_9
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 880
+        width: 37
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c331e1aad7a75560800000000000000
+      internalID: 7302489878265148360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdultSimba_10
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 880
+        width: 63
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c46f067f5ff576fb0800000000000000
+      internalID: -4654646179842165172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdultSimba_11
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 880
+        width: 62
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a0b06f4caa26df00800000000000000
+      internalID: 1141146475139477672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdultSimba_12
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 880
+        width: 63
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95007985bb26bc460800000000000000
+      internalID: 7263007380849754201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdultSimba_13
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 880
+        width: 90
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 401e04b1540337c90800000000000000
+      internalID: -7173336708102954748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdultSimba_14
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 880
+        width: 68
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5c1f40b100599db0800000000000000
+      internalID: -4784705160921277346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdultSimba_15
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 880
+        width: 65
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a79d3377cbd5da100800000000000000
+      internalID: 120855829043992954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdultSimba_16
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 824
+        width: 67
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9977a2615acfaf90800000000000000
+      internalID: -6940106049858340454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdultSimba_17
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 824
+        width: 69
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 080727f852e454aa0800000000000000
+      internalID: -6177445390641368960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdultSimba_18
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 824
+        width: 74
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 916dc8e79978b0a80800000000000000
+      internalID: -8499550778408774119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdultSimba_19
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 824
+        width: 73
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1ccaed1b5677cf10800000000000000
+      internalID: 2289929069257215005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdultSimba_20
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 824
+        width: 75
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ba3e2e1193c90b70800000000000000
+      internalID: 8865832369499552440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdultSimba_21
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 830
+        width: 81
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e7cd860714740a10800000000000000
+      internalID: 1874750987135993828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdultSimba_22
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 827
+        width: 76
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea9f8c176b4512e40800000000000000
+      internalID: 5629874151759608238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdultSimba_23
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 825
+        width: 69
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 722b1c708afc19100800000000000000
+      internalID: 113099786252562983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdultSimba_24
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 824
+        width: 67
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f782de006bafb7990800000000000000
+      internalID: -7387035104164632449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdultSimba_25
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 824
+        width: 67
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eff03755ab6e5a40800000000000000
+      internalID: 5358838964494073828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdultSimba_26
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 827
+        width: 67
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d88525d7bbe6f5ec0800000000000000
+      internalID: -3576017827568396147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdultSimba_27
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 825
+        width: 67
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 603a1054a96d81fe0800000000000000
+      internalID: -1217987741132676346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdultSimba_28
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 773
+        width: 66
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5904e86bcef926900800000000000000
+      internalID: 676278733082869909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdultSimba_29
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 773
+        width: 66
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eace7837c4abd9330800000000000000
+      internalID: 3719333704796466350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdultSimba_30
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 686
+        width: 67
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7162be84444cfa9f0800000000000000
+      internalID: -454929239780940265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdultSimba_31
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 686
+        width: 62
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93c7c7c3d3df9d7f0800000000000000
+      internalID: -587159836945515463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdultSimba_32
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 692
+        width: 66
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7b695f6dae8da930800000000000000
+      internalID: 4156134906681453434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdultSimba_33
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 704
+        width: 69
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a9c1b7d43a49d7e0800000000000000
+      internalID: -1740278190184478295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdultSimba_34
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 716
+        width: 71
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81041a34c0be676b0800000000000000
+      internalID: -5298789473648033768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdultSimba_35
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 721
+        width: 70
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee6fb7ab5592facf0800000000000000
+      internalID: -238926807049701650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdultSimba_36
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 703
+        width: 71
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1dedeef02275be50800000000000000
+      internalID: 6824486296391380250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdultSimba_37
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 687
+        width: 64
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ce7a510ceb289a00800000000000000
+      internalID: 763408429474283204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdultSimba_38
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 687
+        width: 55
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3fec3858ee2b60d0800000000000000
+      internalID: -3428595115864821955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdultSimba_39
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 686
+        width: 50
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dfbd5614b99697d0800000000000000
+      internalID: -2911971110300041255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdultSimba_40
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 686
+        width: 62
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b3cd68a01e2ad560800000000000000
+      internalID: 7339229191833764788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdultSimba_41
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 686
+        width: 50
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00c58b560012d03a0800000000000000
+      internalID: -6697660785239761920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdultSimba_42
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 686
+        width: 25
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55f03f80363301b90800000000000000
+      internalID: -7273256897758425259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdultSimba_43
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 686
+        width: 55
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74619d885e19eda10800000000000000
+      internalID: 1936145304845358663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdultSimba_44
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 590
+        width: 65
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb371f7612dcf1b60800000000000000
+      internalID: 7719113829697811391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdultSimba_45
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 590
+        width: 70
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00095ca010d52fe50800000000000000
+      internalID: 6841633042986274816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdultSimba_46
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 616
+        width: 54
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c33d08fae2fe20e0800000000000000
+      internalID: -2292628069287119930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdultSimba_47
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 627
+        width: 52
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aa7161e466371280800000000000000
+      internalID: -9072723117408683359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdultSimba_48
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 625
+        width: 54
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed12f93c9dfcccc40800000000000000
+      internalID: 5534026576328335838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdultSimba_49
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 598
+        width: 59
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 117a5cd80a99ff380800000000000000
+      internalID: -8935254220827416815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdultSimba_50
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 590
+        width: 64
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93ca72b842d5a1350800000000000000
+      internalID: 5988201066077334585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdultSimba_51
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 591
+        width: 66
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43a341ea3e574d2b0800000000000000
+      internalID: -5560690019157132748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdultSimba_52
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 591
+        width: 61
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6204bcbdfff2574e0800000000000000
+      internalID: -1984627284836138970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdultSimba_53
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 590
+        width: 66
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb41bc96858958840800000000000000
+      internalID: 5225750448132789436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdultSimba_54
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 590
+        width: 65
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebc31c758623b86d0800000000000000
+      internalID: -2987238504099922754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdultSimba_55
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 591
+        width: 67
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a59e7f6ba3e714740800000000000000
+      internalID: 5134523840821979482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdultSimba_56
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 591
+        width: 65
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 243ab4a0f3ab71ad0800000000000000
+      internalID: -2731509869058481342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdultSimba_57
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 532
+        width: 65
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70ca3431044e4c9a0800000000000000
+      internalID: -6213590622012199929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdultSimba_58
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 532
+        width: 59
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42658ce283575d8a0800000000000000
+      internalID: -6280985221134789084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdultSimba_59
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 532
+        width: 65
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 444d6b46336f01470800000000000000
+      internalID: 8363455208620479556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdultSimba_60
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 532
+        width: 66
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dad09a6df307c67b0800000000000000
+      internalID: -5229681647797334611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdultSimba_61
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 532
+        width: 69
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84a79f1a61a7462d0800000000000000
+      internalID: -3286367590448268728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdultSimba_62
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 532
+        width: 70
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa33a5b725dd4e830800000000000000
+      internalID: 4099644907140559786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdultSimba_63
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 532
+        width: 65
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26298c35fb67ac770800000000000000
+      internalID: 8631842199925461602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdultSimba_64
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 532
+        width: 62
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c0ee9024d2e886b0800000000000000
+      internalID: -5293731961265790777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdultSimba_65
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 532
+        width: 65
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdf1ae8904fbed490800000000000000
+      internalID: -7719522427102158884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdultSimba_66
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 532
+        width: 88
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40161746486d78a10800000000000000
+      internalID: 1911732430951244036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdultSimba_67
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 532
+        width: 87
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff3aa28d3bb897420800000000000000
+      internalID: 2628285462089475071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdultSimba_68
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 532
+        width: 69
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 496c1874bd29e4960800000000000000
+      internalID: 7588163892661044884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdultSimba_69
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 453
+        width: 71
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1179caa5ca9d837b0800000000000000
+      internalID: -5244202431794079983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdultSimba_70
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 453
+        width: 62
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36e0430eb60cff690800000000000000
+      internalID: -7566117279403602333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdultSimba_71
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 453
+        width: 60
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ab6637a6ec8ee9d0800000000000000
+      internalID: -2743100200746325082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdultSimba_72
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 453
+        width: 66
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8330f84d17d1ab80800000000000000
+      internalID: -8385184510409428084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdultSimba_73
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 453
+        width: 79
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66f4f01f3fe3f37b0800000000000000
+      internalID: -5242402223793680538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdultSimba_75
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 453
+        width: 60
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38fc9124712d5f830800000000000000
+      internalID: 4104417632753143683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdultSimba_76
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 453
+        width: 62
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce83f979e3f77f930800000000000000
+      internalID: 4176947086217918700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdultSimba_77
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 453
+        width: 63
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c91025f10bb3f18a0800000000000000
+      internalID: -6332276923433877092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdultSimba_78
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 453
+        width: 80
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d98a3d4568d57c890800000000000000
+      internalID: -7437873428048926563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdultSimba_80
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 453
+        width: 64
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 661548787e7343430800000000000000
+      internalID: 3761693056311775590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdultSimba_81
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 453
+        width: 68
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72940ef4f4fdac210800000000000000
+      internalID: 1354140169713764647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdultSimba_82
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 453
+        width: 69
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc653d2b97972a6f0800000000000000
+      internalID: -674843430553954612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdultSimba_83
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 453
+        width: 70
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f520a5feb629ba40800000000000000
+      internalID: 5384377431104693746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdultSimba_84
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 404
+        width: 70
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0a8c915d2a790fb0800000000000000
+      internalID: -4681076002613589490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdultSimba_85
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 333
+        width: 72
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efcc1dd0d3d825f70800000000000000
+      internalID: 9174550684271496446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdultSimba_86
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 313
+        width: 43
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38ee82debfacb4f00800000000000000
+      internalID: 1102197717186702979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdultSimba_87
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 298
+        width: 36
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7528a36032f7409a0800000000000000
+      internalID: -6267744992987807145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdultSimba_88
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 296
+        width: 35
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 020e6d103412ca3e0800000000000000
+      internalID: -2041219959428292576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdultSimba_89
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 304
+        width: 37
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84034ec10f9d03610800000000000000
+      internalID: 1599017493016621128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdultSimba_90
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 303
+        width: 45
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfb74f39ea6e81c90800000000000000
+      internalID: -7198750366870766597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdultSimba_91
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 296
+        width: 38
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 266356f95e7d25720800000000000000
+      internalID: 2833564496791156322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdultSimba_92
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 299
+        width: 34
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 372b61cff9486f4f0800000000000000
+      internalID: -795302461520301453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdultSimba_93
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 296
+        width: 34
+        height: 73
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91d82266db45e7ed0800000000000000
+      internalID: -2414399177784914663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdultSimba_94
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 295
+        width: 34
+        height: 74
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5852223a5ff2cbc0800000000000000
+      internalID: -3764165575675062177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdultSimba_95
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 295
+        width: 35
+        height: 73
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31eac09a8998d6e40800000000000000
+      internalID: 5651324396184055315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdultSimba_96
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 296
+        width: 33
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 865db4035b6442b50800000000000000
+      internalID: 6567451900626326888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdultSimba_97
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 308
+        width: 41
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84f2a2af24fc1afe0800000000000000
+      internalID: -1179433740822499512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdultSimba_98
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 306
+        width: 53
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 458f26a052550e820800000000000000
+      internalID: 2945447773876713556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdultSimba_99
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 318
+        width: 53
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5277fa11ed0db6ec0800000000000000
+      internalID: -3572532227190327515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdultSimba_100
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 328
+        width: 59
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 482ad8c741a2f1fb0800000000000000
+      internalID: -4674971620709916028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdultSimba_101
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 349
+        width: 64
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04a4e1ab87485f380800000000000000
+      internalID: -8938092231393392064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdultSimba_102
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 352
+        width: 67
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1b7b4c48178a0b60800000000000000
+      internalID: 7713125850254375709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdultSimba_103
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 290
+        width: 23
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fb91bd3a42e57370800000000000000
+      internalID: 8319804695127366644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdultSimba_104
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 220
+        width: 62
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fafb52b0284dd80a0800000000000000
+      internalID: -6877607400927019089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdultSimba_105
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 220
+        width: 50
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b7157e2444a99af0800000000000000
+      internalID: -389099280046680139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdultSimba_106
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 214
+        width: 25
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac51dc2186805baf0800000000000000
+      internalID: -381389350357887542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdultSimba_107
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 214
+        width: 37
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac073938e9fccdfe0800000000000000
+      internalID: -1162826324049170230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdultSimba_108
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 214
+        width: 42
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cd4d29360ebe5eb0800000000000000
+      internalID: -4729133624754090556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdultSimba_109
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 214
+        width: 35
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56c75eab562b63090800000000000000
+      internalID: -8055054733508510619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdultSimba_110
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 214
+        width: 35
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d7417ae84c72d610800000000000000
+      internalID: 1644513466556434387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdultSimba_111
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 214
+        width: 33
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 946f378f7b9c35750800000000000000
+      internalID: 6292594896351262281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdultSimba_112
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 214
+        width: 34
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb2c6670158dad160800000000000000
+      internalID: 7051186009130058428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdultSimba_113
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 214
+        width: 37
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 860f5943b5eaa40d0800000000000000
+      internalID: -3437743658796453784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdultSimba_114
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 214
+        width: 40
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76607f22479ab9890800000000000000
+      internalID: -7450174842286438809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdultSimba_115
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 214
+        width: 36
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db69efb0c82ce49d0800000000000000
+      internalID: -2788077212543314243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdultSimba_116
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 214
+        width: 36
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1aafd09eb7caafb0800000000000000
+      internalID: -4635673245136213478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdultSimba_117
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 214
+        width: 37
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7f515f8afcb08db0800000000000000
+      internalID: -4791622219189887107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdultSimba_118
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 214
+        width: 25
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76efab6f06c5b9b80800000000000000
+      internalID: -8387008309521351065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdultSimba_119
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 220
+        width: 50
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8ee17e63db90f400800000000000000
+      internalID: 355955702955634316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdultSimba_120
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 220
+        width: 68
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6276715161e272d0800000000000000
+      internalID: -3282313370304875922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdultSimba_121
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 206
+        width: 141
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f05f4e92880ac2010800000000000000
+      internalID: 1165482910260983055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdultSimba_122
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 149
+        width: 70
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f29f0fb185ba8ecb0800000000000000
+      internalID: -4834425805067978449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdultSimba_123
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 125
+        width: 71
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35721bd755b144ea0800000000000000
+      internalID: -5889552358698834093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdultSimba_124
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 117
+        width: 84
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aab4f87d00accc7d0800000000000000
+      internalID: -2896718355340768342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdultSimba_127
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 96
+        width: 38
+        height: 73
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fcec396f58147160800000000000000
+      internalID: 7022264517044006132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdultSimba_128
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 109
+        width: 51
+        height: 83
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f264eb431945150d0800000000000000
+      internalID: -3435872058075101649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdultSimba_129
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 70
+        width: 317
+        height: 129
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 987e7cd1e1540da10800000000000000
+      internalID: 1932120235792918409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdultSimba_130
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 77
+        width: 8
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b34343995e23c0b30800000000000000
+      internalID: 4254831709657510971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdultSimba_131
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 77
+        width: 8
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26f9a4d01099e6190800000000000000
+      internalID: -7967262460974817438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdultSimba_132
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 77
+        width: 8
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1531be71aef88420800000000000000
+      internalID: 2632633951766787357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdultSimba_133
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 109
+        width: 65
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae6889a3aeb161540800000000000000
+      internalID: 4978197130924033770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdultSimba_134
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 105
+        width: 64
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c55e9550e3d29a580800000000000000
+      internalID: -8815465051200035492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdultSimba_135
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 75
+        width: 34
+        height: 73
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ccd3526367d662b0800000000000000
+      internalID: -5591545065482494778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdultSimba_136
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 83
+        width: 34
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a65b56c3c191195c0800000000000000
+      internalID: -4210556567551625878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdultSimba_137
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 85
+        width: 35
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cacd1ecdd2bc87c50800000000000000
+      internalID: 6663299046534405292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdultSimba_138
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 9
+        width: 32
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cd92450b9260a1a0800000000000000
+      internalID: -6800327019381744187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdultSimba_139
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 4
+        width: 42
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d66d1e7030183320800000000000000
+      internalID: 2537796190483605208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdultSimba_140
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 0
+        width: 34
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c81f7efac7b355a0800000000000000
+      internalID: -6533676551903438656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdultSimba_141
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 9
+        width: 46
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64999d34b6e2a3220800000000000000
+      internalID: 2466334784173480262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdultSimba_142
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 8
+        width: 43
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c81271cf719725030800000000000000
+      internalID: 3481978605831397772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: AdultSimba_143
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 17
+        width: 23
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d1de3843f8d3b6f0800000000000000
+      internalID: -669953380147342890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

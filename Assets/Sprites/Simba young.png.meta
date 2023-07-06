@@ -1,0 +1,3750 @@
+fileFormatVersion: 2
+guid: 5235d3f3b89137942b2d0d1eac5dd4e7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2275056218893746137
+    second: Simba young_0
+  - first:
+      213: 1768679366354062863
+    second: Simba young_1
+  - first:
+      213: -3824602137066605635
+    second: Simba young_2
+  - first:
+      213: -1585480009945741992
+    second: Simba young_3
+  - first:
+      213: -7041009058304789664
+    second: Simba young_4
+  - first:
+      213: -8973721884204692363
+    second: Simba young_5
+  - first:
+      213: 8636731122303497192
+    second: Simba young_6
+  - first:
+      213: 7448854203853919204
+    second: Simba young_7
+  - first:
+      213: -5165411056488313533
+    second: Simba young_8
+  - first:
+      213: -450419660322972433
+    second: Simba young_9
+  - first:
+      213: 8072824800019506654
+    second: Simba young_10
+  - first:
+      213: 1141355666028215692
+    second: Simba young_11
+  - first:
+      213: -2771998507321699902
+    second: Simba young_12
+  - first:
+      213: -7953864613349567677
+    second: Simba young_13
+  - first:
+      213: 5938129841408324143
+    second: Simba young_14
+  - first:
+      213: 2870112118822918847
+    second: Simba young_15
+  - first:
+      213: 8790435576841250313
+    second: Simba young_16
+  - first:
+      213: -8327426196693090499
+    second: Simba young_17
+  - first:
+      213: 8329185284622674309
+    second: Simba young_18
+  - first:
+      213: 5509234343617359178
+    second: Simba young_19
+  - first:
+      213: 8585709213600816834
+    second: Simba young_20
+  - first:
+      213: 2868994763390439076
+    second: Simba young_21
+  - first:
+      213: -88279279961988488
+    second: Simba young_22
+  - first:
+      213: -5618450892781965183
+    second: Simba young_23
+  - first:
+      213: -7956858281562883000
+    second: Simba young_24
+  - first:
+      213: 1273978008846641490
+    second: Simba young_25
+  - first:
+      213: 9037911021538224436
+    second: Simba young_26
+  - first:
+      213: 1745569742287835713
+    second: Simba young_27
+  - first:
+      213: 8282178223084956375
+    second: Simba young_28
+  - first:
+      213: -7296375179661711422
+    second: Simba young_29
+  - first:
+      213: -8965710225692902670
+    second: Simba young_30
+  - first:
+      213: 9223315053057352332
+    second: Simba young_31
+  - first:
+      213: 7091028402736807033
+    second: Simba young_32
+  - first:
+      213: -7209411442128765688
+    second: Simba young_33
+  - first:
+      213: -605574771529237865
+    second: Simba young_34
+  - first:
+      213: 3073284456178101261
+    second: Simba young_35
+  - first:
+      213: 1383862020563575579
+    second: Simba young_36
+  - first:
+      213: 1443178514268008211
+    second: Simba young_37
+  - first:
+      213: -4643103883268143522
+    second: Simba young_38
+  - first:
+      213: 7277164129078190788
+    second: Simba young_39
+  - first:
+      213: -5000097196078884910
+    second: Simba young_40
+  - first:
+      213: -5651846551726923065
+    second: Simba young_41
+  - first:
+      213: 2071344611780415561
+    second: Simba young_42
+  - first:
+      213: 8337746187389364549
+    second: Simba young_43
+  - first:
+      213: 887672602199164567
+    second: Simba young_44
+  - first:
+      213: 2413472339975120987
+    second: Simba young_45
+  - first:
+      213: -5272394852982156871
+    second: Simba young_46
+  - first:
+      213: -867842888071757222
+    second: Simba young_47
+  - first:
+      213: -7755478622650685878
+    second: Simba young_48
+  - first:
+      213: -592516204782211178
+    second: Simba young_49
+  - first:
+      213: 2189710596342761455
+    second: Simba young_50
+  - first:
+      213: 3781350998658530263
+    second: Simba young_51
+  - first:
+      213: 554578265763961971
+    second: Simba young_52
+  - first:
+      213: 1927124078974316693
+    second: Simba young_53
+  - first:
+      213: 67277075875421861
+    second: Simba young_54
+  - first:
+      213: 9146617540596786197
+    second: Simba young_55
+  - first:
+      213: 1585500494033172793
+    second: Simba young_56
+  - first:
+      213: -6549853967863137569
+    second: Simba young_57
+  - first:
+      213: -170405628257359038
+    second: Simba young_58
+  - first:
+      213: 3890479999538712058
+    second: Simba young_59
+  - first:
+      213: 7388916232718105511
+    second: Simba young_60
+  - first:
+      213: 8909806039872320502
+    second: Simba young_61
+  - first:
+      213: 1353965483299525646
+    second: Simba young_62
+  - first:
+      213: -7659455474521505693
+    second: Simba young_63
+  - first:
+      213: -12942331457385515
+    second: Simba young_64
+  - first:
+      213: 6706175974466863552
+    second: Simba young_65
+  - first:
+      213: 8522636284697792638
+    second: Simba young_66
+  - first:
+      213: 1598838743687861140
+    second: Simba young_67
+  - first:
+      213: -2214445081802942293
+    second: Simba young_68
+  - first:
+      213: 5008975128470064050
+    second: Simba young_69
+  - first:
+      213: 1519381154956843565
+    second: Simba young_70
+  - first:
+      213: 6151387340745883319
+    second: Simba young_71
+  - first:
+      213: -1213559880173572449
+    second: Simba young_72
+  - first:
+      213: -5494256358918842361
+    second: Simba young_73
+  - first:
+      213: 4049691657680272529
+    second: Simba young_74
+  - first:
+      213: -6870779370883709672
+    second: Simba young_75
+  - first:
+      213: 5976006093125860476
+    second: Simba young_76
+  - first:
+      213: 3438037710347919854
+    second: Simba young_77
+  - first:
+      213: -1174419165016355265
+    second: Simba young_78
+  - first:
+      213: -6967072305895540285
+    second: Simba young_79
+  - first:
+      213: 5184027670033642361
+    second: Simba young_80
+  - first:
+      213: 931900787723357064
+    second: Simba young_81
+  - first:
+      213: 8242385206245599459
+    second: Simba young_82
+  - first:
+      213: -1379322485565238284
+    second: Simba young_83
+  - first:
+      213: 2881160133804713131
+    second: Simba young_84
+  - first:
+      213: 211417438653494916
+    second: Simba young_85
+  - first:
+      213: -4267408647622582878
+    second: Simba young_86
+  - first:
+      213: 6477763043278978895
+    second: Simba young_87
+  - first:
+      213: -8931540638965457973
+    second: Simba young_88
+  - first:
+      213: -6791811971046774706
+    second: Simba young_89
+  - first:
+      213: 8268510553311428295
+    second: Simba young_90
+  - first:
+      213: -7846441731899396259
+    second: Simba young_91
+  - first:
+      213: -8909230118170059278
+    second: Simba young_92
+  - first:
+      213: -7862247544285107457
+    second: Simba young_93
+  - first:
+      213: 529584572204775001
+    second: Simba young_94
+  - first:
+      213: -7067827266213958046
+    second: Simba young_95
+  - first:
+      213: -575381776364244336
+    second: Simba young_96
+  - first:
+      213: 8640018626171905362
+    second: Simba young_97
+  - first:
+      213: -2263018971793056699
+    second: Simba young_98
+  - first:
+      213: 2398168065813995103
+    second: Simba young_99
+  - first:
+      213: 4735061916213019339
+    second: Simba young_100
+  - first:
+      213: 8333072667895625794
+    second: Simba young_101
+  - first:
+      213: 4371633203839679671
+    second: Simba young_102
+  - first:
+      213: -6420853208456283446
+    second: Simba young_103
+  - first:
+      213: -4676109045630552154
+    second: Simba young_104
+  - first:
+      213: 71161210218584537
+    second: Simba young_105
+  - first:
+      213: -1721596643003954845
+    second: Simba young_106
+  - first:
+      213: -6013100685171610642
+    second: Simba young_107
+  - first:
+      213: 5498414186214215617
+    second: Simba young_108
+  - first:
+      213: -7882574149711349916
+    second: Simba young_109
+  - first:
+      213: 1013752802228381274
+    second: Simba young_110
+  - first:
+      213: -4873054965008349876
+    second: Simba young_111
+  - first:
+      213: -5396716768255942120
+    second: Simba young_112
+  - first:
+      213: -5002301939678116010
+    second: Simba young_113
+  - first:
+      213: 9033390989752678430
+    second: Simba young_114
+  - first:
+      213: 4111033902270062871
+    second: Simba young_115
+  - first:
+      213: 959596298554842978
+    second: Simba young_116
+  - first:
+      213: 2386433412980097168
+    second: Simba young_117
+  - first:
+      213: 3032784650737104147
+    second: Simba young_118
+  - first:
+      213: -7832041269949560417
+    second: Simba young_119
+  - first:
+      213: -2621664510893576167
+    second: Simba young_120
+  - first:
+      213: -2411848801754890413
+    second: Simba young_121
+  - first:
+      213: -4535452987388965113
+    second: Simba young_122
+  - first:
+      213: 7570288094091441787
+    second: Simba young_123
+  - first:
+      213: -1836286799789169518
+    second: Simba young_124
+  - first:
+      213: 2243867145321583125
+    second: Simba young_125
+  - first:
+      213: 9177376076201711303
+    second: Simba young_126
+  - first:
+      213: -3438042578522594968
+    second: Simba young_127
+  - first:
+      213: -9024313361817595986
+    second: Simba young_128
+  - first:
+      213: -2936649710953935147
+    second: Simba young_129
+  - first:
+      213: -4909263662815378840
+    second: Simba young_130
+  - first:
+      213: 5784381380218882294
+    second: Simba young_131
+  - first:
+      213: -524059122507911777
+    second: Simba young_132
+  - first:
+      213: 1210301246714490813
+    second: Simba young_133
+  - first:
+      213: 5311762128633845110
+    second: Simba young_134
+  - first:
+      213: -7168371916753949273
+    second: Simba young_135
+  - first:
+      213: 7414680325183551267
+    second: Simba young_136
+  - first:
+      213: 8548016773133874662
+    second: Simba young_137
+  - first:
+      213: 5209671134303843878
+    second: Simba young_138
+  - first:
+      213: 6217468376838431984
+    second: Simba young_139
+  - first:
+      213: -2822337535420742530
+    second: Simba young_140
+  - first:
+      213: -6767388327124621781
+    second: Simba young_141
+  - first:
+      213: -6985067597302423547
+    second: Simba young_142
+  - first:
+      213: -3791373646173597730
+    second: Simba young_143
+  - first:
+      213: -8845731479645780299
+    second: Simba young_144
+  - first:
+      213: -5047434578335734749
+    second: Simba young_145
+  - first:
+      213: -2697716864815995174
+    second: Simba young_146
+  - first:
+      213: -4588465829921340127
+    second: Simba young_147
+  - first:
+      213: 4904800070574911296
+    second: Simba young_148
+  - first:
+      213: -3734314312827828468
+    second: Simba young_149
+  - first:
+      213: -4476807663449764664
+    second: Simba young_150
+  - first:
+      213: -3637061749154174614
+    second: Simba young_151
+  - first:
+      213: -5638827843150603786
+    second: Simba young_152
+  - first:
+      213: -3827841491768706813
+    second: Simba young_153
+  - first:
+      213: 1978345265032836286
+    second: Simba young_154
+  - first:
+      213: -5572062692667525844
+    second: Simba young_155
+  - first:
+      213: -1251603207341138124
+    second: Simba young_156
+  - first:
+      213: 8685381220304424335
+    second: Simba young_157
+  - first:
+      213: -9070531749295623459
+    second: Simba young_158
+  - first:
+      213: -3442650811425054339
+    second: Simba young_159
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Simba young_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 885
+        width: 23
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7208bc43c606d60e0800000000000000
+      internalID: -2275056218893746137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simba young_1
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 829
+        width: 31
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0ec819438c9b8810800000000000000
+      internalID: 1768679366354062863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simba young_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 840
+        width: 33
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db3f1f4be984ceac0800000000000000
+      internalID: -3824602137066605635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simba young_3
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 850
+        width: 37
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85583b8c45e3ff9e0800000000000000
+      internalID: -1585480009945741992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simba young_4
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 869
+        width: 42
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0637f6bf09f494e90800000000000000
+      internalID: -7041009058304789664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simba young_5
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 855
+        width: 47
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57c84dabd7fe67380800000000000000
+      internalID: -8973721884204692363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simba young_6
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 836
+        width: 41
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e3f5754235dbd770800000000000000
+      internalID: 8636731122303497192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simba young_7
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 832
+        width: 38
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e35364ce65af5760800000000000000
+      internalID: 7448854203853919204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simba young_8
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 830
+        width: 36
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34d832bf206c058b0800000000000000
+      internalID: -5165411056488313533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simba young_9
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 829
+        width: 30
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fecd89294b9cfb9f0800000000000000
+      internalID: -450419660322972433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simba young_10
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 829
+        width: 46
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed5602b426f680070800000000000000
+      internalID: 8072824800019506654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simba young_11
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 829
+        width: 33
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8dbdfb5ee8e6df00800000000000000
+      internalID: 1141355666028215692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simba young_12
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 829
+        width: 17
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c15d255b02e789d0800000000000000
+      internalID: -2771998507321699902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simba young_13
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 829
+        width: 14
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 343dfb986423e9190800000000000000
+      internalID: -7953864613349567677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simba young_14
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 829
+        width: 18
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f223a4311a9786250800000000000000
+      internalID: 5938129841408324143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simba young_15
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 829
+        width: 17
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbadbfbf3cfa4d720800000000000000
+      internalID: 2870112118822918847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simba young_16
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 829
+        width: 17
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 906249a5596edf970800000000000000
+      internalID: 8790435576841250313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simba young_17
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 829
+        width: 16
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3f73d4aef90f6c80800000000000000
+      internalID: -8327426196693090499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simba young_18
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 829
+        width: 15
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 589685ee2e5379370800000000000000
+      internalID: 8329185284622674309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simba young_19
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 829
+        width: 19
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4de1b3427bb47c40800000000000000
+      internalID: 5509234343617359178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simba young_20
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 829
+        width: 22
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ce997d6a01962770800000000000000
+      internalID: 8585709213600816834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simba young_21
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 829
+        width: 23
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aec7566987b0d720800000000000000
+      internalID: 2868994763390439076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simba young_22
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 775
+        width: 35
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 872a6dc667e56cef0800000000000000
+      internalID: -88279279961988488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simba young_23
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 775
+        width: 41
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18031cb4ea04702b0800000000000000
+      internalID: -5618450892781965183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simba young_24
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 775
+        width: 53
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84cb157dc8f839190800000000000000
+      internalID: -7956858281562883000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simba young_25
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 775
+        width: 53
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 259a6fccf341ea110800000000000000
+      internalID: 1273978008846641490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simba young_26
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 775
+        width: 35
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 439af5e603c1d6d70800000000000000
+      internalID: 9037911021538224436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simba young_27
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 775
+        width: 41
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1429cb3ae62893810800000000000000
+      internalID: 1745569742287835713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simba young_28
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 775
+        width: 47
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7da6479863530f270800000000000000
+      internalID: 8282178223084956375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simba young_29
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 775
+        width: 35
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c769449e611eba90800000000000000
+      internalID: -7296375179661711422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simba young_30
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 775
+        width: 37
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fabc765d06639380800000000000000
+      internalID: -8965710225692902670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simba young_31
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 775
+        width: 41
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c822ffc6c2ccfff70800000000000000
+      internalID: 9223315053057352332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simba young_32
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 775
+        width: 59
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97c355d23c4686260800000000000000
+      internalID: 7091028402736807033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simba young_34
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 775
+        width: 56
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79abf0a24f09897f0800000000000000
+      internalID: -605574771529237865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simba young_35
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 775
+        width: 39
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0ca9301eef76aa20800000000000000
+      internalID: 3073284456178101261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simba young_36
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 728
+        width: 47
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b13a8d9fc27743310800000000000000
+      internalID: 1383862020563575579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simba young_37
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 728
+        width: 50
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31fab626633370410800000000000000
+      internalID: 1443178514268008211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simba young_38
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 728
+        width: 51
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e56c09e4e91609fb0800000000000000
+      internalID: -4643103883268143522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simba young_39
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 732
+        width: 53
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c2abe5283eadf460800000000000000
+      internalID: 7277164129078190788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simba young_40
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 738
+        width: 61
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d79a4187161c9ab0800000000000000
+      internalID: -5000097196078884910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simba young_41
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 739
+        width: 58
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c2ec47818b9091b0800000000000000
+      internalID: -5651846551726923065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simba young_42
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 732
+        width: 57
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 940579033f4eebc10800000000000000
+      internalID: 2071344611780415561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simba young_43
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 728
+        width: 56
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 549e5be6bff95b370800000000000000
+      internalID: 8337746187389364549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simba young_44
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 728
+        width: 51
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7968de25785a15c00800000000000000
+      internalID: 887672602199164567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simba young_45
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 728
+        width: 46
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b58a27b5e406e7120800000000000000
+      internalID: 2413472339975120987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simba young_46
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 728
+        width: 47
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b19668c0d0b4d6b0800000000000000
+      internalID: -5272394852982156871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simba young_47
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 728
+        width: 46
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5242a7cd7dc4f3f0800000000000000
+      internalID: -867842888071757222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simba young_48
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 674
+        width: 53
+        height: 43
+      alignment: 9
+      pivot: {x: 0.8, y: -0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4625c178410f5490800000000000000
+      internalID: -7755478622650685878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simba young_49
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 662
+        width: 60
+        height: 36
+      alignment: 9
+      pivot: {x: 0.8, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69f2b4aa6a5f6c7f0800000000000000
+      internalID: -592516204782211178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simba young_50
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 655
+        width: 45
+        height: 41
+      alignment: 9
+      pivot: {x: 0.06, y: 0.17}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe74bef8f2a636e10800000000000000
+      internalID: 2189710596342761455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simba young_51
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 694
+        width: 56
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7db3c16e2be0a7430800000000000000
+      internalID: 3781350998658530263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simba young_52
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 633
+        width: 42
+        height: 55
+      alignment: 9
+      pivot: {x: 0.75, y: 0.55}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37c53039ef142b700800000000000000
+      internalID: 554578265763961971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simba young_53
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 628
+        width: 35
+        height: 60
+      alignment: 9
+      pivot: {x: 0.35, y: 0.58}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 590bd55b3258eba10800000000000000
+      internalID: 1927124078974316693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simba young_54
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 643
+        width: 49
+        height: 45
+      alignment: 9
+      pivot: {x: 0.1, y: 0.45}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aed411e4240fe000800000000000000
+      internalID: 67277075875421861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simba young_55
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 652
+        width: 42
+        height: 35
+      alignment: 9
+      pivot: {x: 0, y: 0.25}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 514e0ab31305fee70800000000000000
+      internalID: 9146617540596786197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simba young_56
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 635
+        width: 34
+        height: 53
+      alignment: 9
+      pivot: {x: 0.48, y: 0.52}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 939bd0a8c44d00610800000000000000
+      internalID: 1585500494033172793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simba young_57
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 635
+        width: 32
+        height: 53
+      alignment: 9
+      pivot: {x: 0.65, y: 0.52}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdab5d2d48e3a15a0800000000000000
+      internalID: -6549853967863137569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simba young_58
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 629
+        width: 31
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.58}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24b2ef3ebf892adf0800000000000000
+      internalID: -170405628257359038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simba young_59
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 624
+        width: 38
+        height: 64
+      alignment: 9
+      pivot: {x: 0.24, y: 0.61}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afd444a62f2cdf530800000000000000
+      internalID: 3890479999538712058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simba young_60
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 622
+        width: 34
+        height: 66
+      alignment: 9
+      pivot: {x: 0.37, y: 0.62}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7abb74e5a24ba8660800000000000000
+      internalID: 7388916232718105511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simba young_61
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 623
+        width: 32
+        height: 65
+      alignment: 9
+      pivot: {x: 0.49, y: 0.61}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f33838136df5ab70800000000000000
+      internalID: 8909806039872320502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simba young_62
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 619
+        width: 30
+        height: 69
+      alignment: 9
+      pivot: {x: 1, y: 0.9}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e045536fe604ac210800000000000000
+      internalID: 1353965483299525646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simba young_63
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 621
+        width: 52
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3608934d3d524b590800000000000000
+      internalID: -7659455474521505693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simba young_64
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 519
+        width: 38
+        height: 54
+      alignment: 9
+      pivot: {x: 0.65, y: 0.6}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dbcae2a40502dff0800000000000000
+      internalID: -12942331457385515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simba young_66
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 540
+        width: 43
+        height: 39
+      alignment: 9
+      pivot: {x: 0.6, y: 0.3}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e70544bcb8c764670800000000000000
+      internalID: 8522636284697792638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simba young_67
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 548
+        width: 42
+        height: 33
+      alignment: 9
+      pivot: {x: 0.6, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49395aacd57303610800000000000000
+      internalID: 1598838743687861140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simba young_68
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 551
+        width: 41
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba856844ee5b441e0800000000000000
+      internalID: -2214445081802942293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simba young_69
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 551
+        width: 35
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bb89353754738540800000000000000
+      internalID: 5008975128470064050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simba young_70
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 525
+        width: 59
+        height: 83
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2a10a34c1de51510800000000000000
+      internalID: 1519381154956843565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simba young_71
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 559
+        width: 35
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7be3ef8e13e1e5550800000000000000
+      internalID: 6151387340745883319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simba young_72
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 559
+        width: 35
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9ea69cf7b1982fe0800000000000000
+      internalID: -1213559880173572449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simba young_73
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 559
+        width: 35
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70816bd83fa70c3b0800000000000000
+      internalID: -5494256358918842361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simba young_74
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 559
+        width: 41
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19c35e14b15633830800000000000000
+      internalID: 4049691657680272529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simba young_75
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 559
+        width: 47
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 815056ca09616a0a0800000000000000
+      internalID: -6870779370883709672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simba young_76
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 498
+        width: 29
+        height: 67
+      alignment: 9
+      pivot: {x: 1, y: 0.8}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7c365421e90fe250800000000000000
+      internalID: 5976006093125860476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simba young_77
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 506
+        width: 31
+        height: 63
+      alignment: 9
+      pivot: {x: 1, y: 0.7}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee16fa1051d56bf20800000000000000
+      internalID: 3438037710347919854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simba young_78
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 490
+        width: 23
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3e0ac3edff93bfe0800000000000000
+      internalID: -1174419165016355265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simba young_79
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 495
+        width: 24
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c972a2a6acff4f90800000000000000
+      internalID: -6967072305895540285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simba young_80
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 506
+        width: 41
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 973b62223bd51f740800000000000000
+      internalID: 5184027670033642361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simba young_81
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 493
+        width: 37
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88b482a34d6ceec00800000000000000
+      internalID: 931900787723357064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simba young_82
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 496
+        width: 36
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e82430dca5d26270800000000000000
+      internalID: 8242385206245599459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simba young_83
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 495
+        width: 32
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f3dc21e189abdce0800000000000000
+      internalID: -1379322485565238284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simba young_84
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 493
+        width: 32
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba4627c60efebf720800000000000000
+      internalID: 2881160133804713131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simba young_85
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 423
+        width: 54
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 486b3425a0b1fe200800000000000000
+      internalID: 211417438653494916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simba young_86
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 423
+        width: 49
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ad9607d17e17c4c0800000000000000
+      internalID: -4267408647622582878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simba young_87
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 423
+        width: 63
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4ffbcdca23a5e950800000000000000
+      internalID: 6477763043278978895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simba young_90
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 423
+        width: 47
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ce32bf2a86afb270800000000000000
+      internalID: 8268510553311428295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simba young_91
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 423
+        width: 63
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5fe55b21d6db1390800000000000000
+      internalID: -7846441731899396259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simba young_95
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 425
+        width: 35
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26e2f7f5c880aed90800000000000000
+      internalID: -7067827266213958046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simba young_96
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 425
+        width: 30
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0927399a255d308f0800000000000000
+      internalID: -575381776364244336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simba young_97
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 425
+        width: 33
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2552cb9e92387e770800000000000000
+      internalID: 8640018626171905362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simba young_98
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 425
+        width: 30
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54c1e423c342890e0800000000000000
+      internalID: -2263018971793056699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simba young_99
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 425
+        width: 51
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5e578a5621084120800000000000000
+      internalID: 2398168065813995103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simba young_100
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 425
+        width: 62
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc28b51b9b156b140800000000000000
+      internalID: 4735061916213019339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simba young_102
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 425
+        width: 56
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bcba2bac392bac30800000000000000
+      internalID: 4371633203839679671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simba young_103
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 425
+        width: 52
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aca390ba60c84e6a0800000000000000
+      internalID: -6420853208456283446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simba young_104
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 346
+        width: 51
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a7333c199f1b1fb0800000000000000
+      internalID: -4676109045630552154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simba young_105
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 358
+        width: 55
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d99dd06eb0dcf000800000000000000
+      internalID: 71161210218584537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simba young_106
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 365
+        width: 53
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3698e3f79f8ab18e0800000000000000
+      internalID: -1721596643003954845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simba young_107
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 370
+        width: 57
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeb20bd19cc2d8ca0800000000000000
+      internalID: -6013100685171610642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simba young_108
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 376
+        width: 59
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cf444d029a4e4c40800000000000000
+      internalID: 5498414186214215617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simba young_109
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 363
+        width: 54
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46737c213987b9290800000000000000
+      internalID: -7882574149711349916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simba young_110
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 348
+        width: 52
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5621e27dc2911e00800000000000000
+      internalID: 1013752802228381274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simba young_111
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 346
+        width: 54
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4549bfe35e6f5cb0800000000000000
+      internalID: -4873054965008349876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simba young_112
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 346
+        width: 33
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 812e5ba31b20b15b0800000000000000
+      internalID: -5396716768255942120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simba young_113
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 346
+        width: 30
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6570d32a3e0449ab0800000000000000
+      internalID: -5002301939678116010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simba young_114
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 346
+        width: 25
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e183c658e3d0d5d70800000000000000
+      internalID: 9033390989752678430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simba young_115
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 346
+        width: 31
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 711256c8d835d0930800000000000000
+      internalID: 4111033902270062871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simba young_116
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 346
+        width: 31
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26f1427dfbb215d00800000000000000
+      internalID: 959596298554842978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simba young_117
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 346
+        width: 26
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0904dc49b805e1120800000000000000
+      internalID: 2386433412980097168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simba young_118
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 289
+        width: 52
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 315317b429d961a20800000000000000
+      internalID: 3032784650737104147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simba young_119
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 289
+        width: 54
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f99057ef5fffe4390800000000000000
+      internalID: -7832041269949560417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simba young_120
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 289
+        width: 58
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 910b0fb740afd9bd0800000000000000
+      internalID: -2621664510893576167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simba young_121
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 289
+        width: 63
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35fb2771b44678ed0800000000000000
+      internalID: -2411848801754890413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simba young_122
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 289
+        width: 61
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70f423fa985de01c0800000000000000
+      internalID: -4535452987388965113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simba young_123
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 289
+        width: 61
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7670b799e01f0960800000000000000
+      internalID: 7570288094091441787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simba young_124
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 288
+        width: 59
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 294e3d872e23486e0800000000000000
+      internalID: -1836286799789169518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simba young_127
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 288
+        width: 33
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8612e788d7e9940d0800000000000000
+      internalID: -3438042578522594968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simba young_128
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 289
+        width: 51
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaf0d0f6fc233c280800000000000000
+      internalID: -9024313361817595986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simba young_129
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 294
+        width: 65
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5de46dc95acee37d0800000000000000
+      internalID: -2936649710953935147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simba young_130
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 288
+        width: 65
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 862082585bacedbb0800000000000000
+      internalID: -4909263662815378840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simba young_131
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 207
+        width: 38
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f88455e730464050800000000000000
+      internalID: 5784381380218882294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simba young_132
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 207
+        width: 44
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9dec91310b2ab8f0800000000000000
+      internalID: -524059122507911777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simba young_133
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 212
+        width: 37
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbf21a9429adbc010800000000000000
+      internalID: 1210301246714490813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simba young_134
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 204
+        width: 48
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 675d798538b27b940800000000000000
+      internalID: 5311762128633845110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simba young_135
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 204
+        width: 29
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7adaefba8b3d48c90800000000000000
+      internalID: -7168371916753949273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simba young_136
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 204
+        width: 32
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 327b4a9987c36e660800000000000000
+      internalID: 7414680325183551267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simba young_137
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 204
+        width: 27
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e5b9b047f7a0a670800000000000000
+      internalID: 8548016773133874662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simba young_138
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 204
+        width: 31
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62679cc6b487c4840800000000000000
+      internalID: 5209671134303843878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simba young_139
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 204
+        width: 28
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f4eda31c82e84650800000000000000
+      internalID: 6217468376838431984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simba young_140
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 204
+        width: 30
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e74cef407fa05d8d0800000000000000
+      internalID: -2822337535420742530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simba young_141
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 204
+        width: 30
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b26ac90fb286512a0800000000000000
+      internalID: -6767388327124621781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simba young_142
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 204
+        width: 33
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 500a2ba570e001f90800000000000000
+      internalID: -6985067597302423547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simba young_143
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 204
+        width: 33
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edf8b01a1c5526bc0800000000000000
+      internalID: -3791373646173597730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simba young_144
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 204
+        width: 30
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b609310616ad3580800000000000000
+      internalID: -8845731479645780299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simba young_145
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 209
+        width: 8
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32466435ef8e3f9b0800000000000000
+      internalID: -5047434578335734749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simba young_146
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 209
+        width: 8
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad6ef08fdc8cf8ad0800000000000000
+      internalID: -2697716864815995174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simba young_147
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 205
+        width: 73
+        height: 73
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 125458f63ae7250c0800000000000000
+      internalID: -4588465829921340127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simba young_148
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 150
+        width: 60
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04fadec6da9511440800000000000000
+      internalID: 4904800070574911296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simba young_149
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 145
+        width: 57
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c078d30faec0d2cc0800000000000000
+      internalID: -3734314312827828468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simba young_150
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 131
+        width: 50
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cc8454362f2fd1c0800000000000000
+      internalID: -4476807663449764664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simba young_151
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 125
+        width: 37
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a69218feb9f868dc0800000000000000
+      internalID: -3637061749154174614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simba young_152
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 128
+        width: 50
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f91d63d3fbdeb1b0800000000000000
+      internalID: -5638827843150603786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simba young_153
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 147
+        width: 45
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 309ff9aa176c0eac0800000000000000
+      internalID: -3827841491768706813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simba young_154
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 149
+        width: 51
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb4bb5d698e747b10800000000000000
+      internalID: 1978345265032836286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simba young_155
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 145
+        width: 49
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c257859c08e0ca2b0800000000000000
+      internalID: -5572062692667525844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simba young_156
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 126
+        width: 37
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43f11b2a38961aee0800000000000000
+      internalID: -1251603207341138124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simba young_157
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 118
+        width: 36
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8d0817e33ca88870800000000000000
+      internalID: 8685381220304424335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simba young_158
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 133
+        width: 53
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd2f4578e6ffe1280800000000000000
+      internalID: -9070531749295623459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simba young_159
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 710
+        height: 113
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d71ac43b35f3930d0800000000000000
+      internalID: -3442650811425054339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
